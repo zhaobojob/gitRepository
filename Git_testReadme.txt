@@ -7,3 +7,6 @@ $ git commit -m "first readme"
 
 $ git status
 $ git diff Git_testReadme.txt
+
+$ git log 
+$ git relog
