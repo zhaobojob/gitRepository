@@ -10,3 +10,5 @@ $ git diff Git_testReadme.txt
 
 $ git log 
 $ git relog
+$ git reset --hard HEAD^
+$ git reset --hard ********
